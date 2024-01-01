@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var ITERATOR_SYMBOL = require( '@stdlib/symbol-iterator' );
 var isUint8Array = require( '@stdlib/assert-is-uint8array' );
 var pkg = require( './../package.json' ).name;
