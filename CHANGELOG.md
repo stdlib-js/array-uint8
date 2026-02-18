@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-18)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`ddc5bee`](https://github.com/stdlib-js/stdlib/commit/ddc5beeef572cad7d02537bb0086ba434ef77a23) - **bench:** refactor to use string interpolation in `array/uint8` [(#10337)](https://github.com/stdlib-js/stdlib/pull/10337) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
